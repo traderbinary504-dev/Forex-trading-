@@ -1,0 +1,8 @@
+{
+  "name": "Institutional Forex Mastery: Advanced Roman Urdu Edition",
+  "description": "A luxury dark-mode institutional Forex trading digital eBook in Roman Urdu covering Market Structure, Order Flow, PKT Killzones, Intermarket Macro, MTFA Execution, Prop Firm Risk Math, and MAE/MFE Psychology with custom SVG price-action charts and full print-to-PDF layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
